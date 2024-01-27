@@ -8,7 +8,7 @@ Installation
 
 ::
 
-    $ pip install colorthief
+    $ pip install -e git+git://github.com/raoulspronck/color-thief-py.git@master#egg=color-thief-py
 
 Usage
 -----
